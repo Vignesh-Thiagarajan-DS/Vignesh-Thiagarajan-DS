@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🖥 Data Scientist at Cashmere AI, Ex - Mu Sigma
-- 👨‍💼 In the last 5+ years of employment, I've held multiple roles - Lead Data Scientist, Senior Data Scientist, Apprentice Leader
-- 🎓 Studying Master's in Business Analystics at University of California, Davis - Class of 2025
+- 👨‍💼 In the last 6+ years of employment, I've held multiple roles - Lead Data Scientist, Senior Data Scientist, Apprentice Leader
+- 🎓 Master's in Business Analystics at University of California, Davis - Class of 2025
 - 🎓 Bachelor's in Computer Science Engineering at Amrita Vishwa Vidyapeetham - Class of 2018
 - ❤️ Interested in solving business problems using Machines Learning and Data Analytics
 - ❣️ Tech Stack: SQL, Python, R, PowerBi, Html, JS
