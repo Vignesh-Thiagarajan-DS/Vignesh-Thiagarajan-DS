@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🖥 Data Scientist at Cashmere AI, Ex - Mu Sigma
+- 🖥 Data Scientist at Cashmere AI, Ex - Mu Sigma (Microsoft, Coca Cola, General Motors, Home Depot - Consultant) , Ex - ShopUp
 - 👨‍💼 In the last 6+ years of employment, I've held multiple roles - Lead Data Scientist, Senior Data Scientist, Apprentice Leader
 - 🎓 Master's in Business Analystics at University of California, Davis - Class of 2025
 - 🎓 Bachelor's in Computer Science Engineering at Amrita Vishwa Vidyapeetham - Class of 2018
