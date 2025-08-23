@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="30%" align = "center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRtbnc1MGpudTg0N3FqYmZqb21xNXoxNGVld3g1d2Fvbml5bm4ydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Coding from Home" width="90%"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRtbnc1MGpudTg0N3FqYmZqb21xNXoxNGVld3g1d2Fvbml5bm4ydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Coding from Home" width="100%"/>
 </td>
 <td width="70%" valign="top">
 <div align="right">
@@ -12,7 +12,7 @@ Hi there, I'm Vignesh Thiagarajan!
 <img src="https://komarev.com/ghpvc/?username=Vignesh-Thiagarajan-DS&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-thiagarajan-ds" />
 </h3>
 <p>
-Senior data scientist with 6+ years of experience delivering AI, ML and analaytical solutions.
+Senior data scientist with 6+ years of experience in AI, ML and data analytics.
 </p>
 Programming Languages & Data Science:<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
