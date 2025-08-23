@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="30%" align = "bottom">
+<td width="30%" valign = "bottom" halign = "right">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRtbnc1MGpudTg0N3FqYmZqb21xNXoxNGVld3g1d2Fvbml5bm4ydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Coding from Home" width="95%"/>
 </td>
 <td width="70%" valign="top">
