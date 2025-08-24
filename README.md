@@ -9,7 +9,7 @@
 <h3>
 Hi there, I'm Vignesh Thiagarajan!
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
-<img src="https://komarev.com/ghpvc/?username=Vignesh-Thiagarajan-DS&base=8241&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-thiagarajan-ds" />
+<img src="https://komarev.com/ghpvc/?username=Vignesh-Thiagarajan-DS&base=1982&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-thiagarajan-ds" />
 </h3>
 <p>
 Senior data scientist with 6+ years of experience in AI, ML and data analytics.
