@@ -9,7 +9,7 @@
 <h3>
 Hi there, I'm Vignesh Thiagarajan!
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
-<img src="https://komarev.com/ghpvc/?username=Vignesh-Thiagarajan-DS&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-thiagarajan-ds" />
+<img src="https://komarev.com/ghpvc/?username=Vignesh-Thiagarajan-DS&base=8241&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-thiagarajan-ds" />
 </h3>
 <p>
 Senior data scientist with 6+ years of experience in AI, ML and data analytics.
@@ -43,7 +43,7 @@ Cloud, MLOps & Tools:<br>
 <br>
 👨‍💼 In the last 6+ years of employment, I've held multiple roles - Lead Data Scientist, Senior Data Scientist, Apprentice Leader
 <br>
-🎓 Master's in Business Analystics at University of California, Davis - Class of 2025
+🎓 Master's in Business Analytics at University of California, Davis - Class of 2025
 <br>
 🎓 Bachelor's in Computer Science Engineering at Amrita Vishwa Vidyapeetham - Class of 2018
 <br>
