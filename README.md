@@ -39,7 +39,7 @@ Cloud, MLOps & Tools:<br>
 </table>
 👨‍💻 About Me: </b>
 <br>
-🖥 Data Scientist at Cashmere AI, Ex - Mu Sigma (Microsoft, Coca Cola, General Motors, Home Depot - Consultant)
+🖥 Data Scientist / ML Engineer at Cashmere AI, Ex - Mu Sigma (Microsoft, Coca Cola, General Motors, Home Depot - Consultant)
 <br>
 👨‍💼 In the last 6+ years of employment, I've held multiple roles - Lead Data Scientist, Senior Data Scientist, Apprentice Leader
 <br>
