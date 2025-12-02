@@ -43,14 +43,14 @@ Cloud, MLOps & Tools:<br>
 <br>
 👨‍💼 In the last 6+ years of employment, I've held multiple roles - Lead Data Scientist, Senior Data Scientist, Apprentice Leader
 <br>
-🎓 Master's in Business Analytics at University of California, Davis - Class of 2025
+🎓 Master of Science in Business Analytics at    The University of California, Davis - Class of 2025
 <br>
-🎓 Bachelor's in Computer Science Engineering at Amrita Vishwa Vidyapeetham - Class of 2018
+🎓 Bachelor's in   Computer Science Engineering at Amrita Vishwa Vidyapeetham - Class of 2018
 <br>
 ❤️ Interested in solving business problems using AI, Machine Learning and Data Analytics
 <br>
-🥇 Problem solving: Codeforces, Leetcode, HackerRank
+🥇 Problem solving: Codeforces, Leetcode, HackerRank, Open Source Projects
 <br>
-💚 Hobby: Writing script for standup comedy routines
+💚 Hobby: Writing script for standup comedy routines, Hiking
 <br>
-🏏 Sports: Football, Cricket, Swimming, Athletics
+🏏 Sports: Football, Tennis, Swimming, Cricket
